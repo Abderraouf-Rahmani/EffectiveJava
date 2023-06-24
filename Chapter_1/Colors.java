@@ -2,7 +2,7 @@ public class Colors {
 
     private String color;
 
-    // Constructor BAD EXP
+    // Constructor
     private Colors(String color) {
         this.color = color;
     }
